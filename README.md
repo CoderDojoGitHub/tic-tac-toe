@@ -1,6 +1,16 @@
 # Tic Tac Toe and Python
 Build Tic Tac Toe in Python on the command line
 
+
+## Sub-Lessons
+This lesson consists of two sub-lessons
+
+ * [Lesson 1](https://github.com/CoderDojoSF/tic-tac-toe/tree/master/lesson1)
+ * [Lesson 2](https://github.com/CoderDojoSF/tic-tac-toe/tree/master/lesson2)
+
+The second lesson builds off of the first one and should be done after completing
+the first.
+
 ### Installation Pre-Reqs
 
 #### Windows

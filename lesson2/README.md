@@ -3,12 +3,12 @@
 Today, we're going to take an existing tic tac toe game and teach the
 computer to play with us.
 
-The tic tac toe implementation is based on the version written [here](https://github.com/kevinclark/Lesson-Plans/tree/master/tic-tac-toe).
+The tic tac toe implementation is based on the version written [here](https://github.com/CoderDojoSF/tic-tac-toe/blob/master/lesson1).
 It's been extended to handle turns, and validating moved, and to make it
 easy to write a computer controlled player.
 
 If you'd like to follow along, or move ahead, the lesson plan can be
-found [here](https://github.com/kevinclark/Lesson-Plans/blob/master/tic-tac-toe-2/tic-tac-toe-2.md).
+found [here](https://github.com/CoderDojoSF/tic-tac-toe/blob/master/lesson2/README.md).
 
 #### Downloading code
 
