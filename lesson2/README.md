@@ -12,7 +12,7 @@ found [here](https://github.com/CoderDojoSF/tic-tac-toe/blob/master/lesson2/READ
 
 #### Downloading code
 
-To download the game we'll be basing our code on, please download and extract the zipfile located [here](https://github.com/kevinclark/Lesson-Plans/zipball/master).
+To download the game we'll be basing our code on, please download a copy [here](https://github.com/CoderDojoSF/tic-tac-toe/blob/master/lesson1/tictactoe.py).
 
 ### Starting the interpreter and basics
 
