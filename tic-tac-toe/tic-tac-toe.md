@@ -1,30 +1,8 @@
-# Tic tac toe and python
-
+# Lesson 1
 Today we're going to teach our computers to help us play tic tac toe
 with each other. To do it, we're going to use a programming language
 called 'python'. Programming languages are the way humans tell
 computers what to do and how to do it.
-
-### Installation
-
-#### Windows
-On windows, download and run the python 2.7 installer from
-http://www.python.org/ftp/python/2.7.3/python-2.7.3.msi
-
-After running the installer:
-
-1. Choose 'Install for all users', and click Next.
-2. Leave the default directory selected 'C:\Python27\', and click Next.
-3. Leave all options selected, and click Next.
-4. Click Yes if you get a User Account Control prompt asking for
-   permission to install software.
-5. Click Finish
-6. Click Yes to restart your computer.
-
-
-#### Mac OSX
-Mac OSX has python built in.
-
 
 ### Starting the interpreter and basics
 
